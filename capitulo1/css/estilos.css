@@ -1,0 +1,71 @@
+/*
+Hojas de comentario de mi sitio
+*/
+body{
+    background-color: beige;
+  font-family: sans-serif;
+  font-size: small;
+}
+hr{
+    background-color: rgb(255, 208, 0);
+}
+#tituloprincipal{font-size: 25px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align:center ;
+    background-color: blue ;
+    color: white;
+}
+
+.listas{font-size: 25px;
+        text-transform: uppercase;
+        text-decoration: underline;
+        text-align: right ;
+        background-color: rgb(255, 81, 0) ;
+        color: rgb(21, 19, 173);
+    }
+    
+
+
+p {
+    background-color: aquamarine;
+    line-height: 30px;
+}
+.informacion {
+    color: red;
+    background-color: blueviolet;
+
+}
+/*es un selector de clases*/
+/*es un selector de clases*/
+
+#titulo {
+    color: green;
+    background-color: black;
+}
+#fecha{
+    background-color: rgb(1, 10, 7); color: bisque;
+}
+
+.final
+{
+    background-color: black; 
+     color: azure;
+
+}
+ul{
+
+background-color: black;
+color: azure;
+}
+
+ol{
+background-color: brown;
+color: bisque;
+}
+.Tipodelista{ list-style-type: upper-alpha;
+
+
+}
+/*.imagen{list-style-image:url(../img/imagen.png);
+}*/
